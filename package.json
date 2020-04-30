@@ -11,7 +11,7 @@
   "dependencies": {
     "canvas": "^1.6.6",
     "canvas-factory": "0.0.5",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jsdom": "^11.1.0",
     "three": "^0.86.0"
   }
