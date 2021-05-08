@@ -9,7 +9,7 @@
   "author": "jeno5980515",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^1.6.6",
+    "canvas": "^1.6.11",
     "canvas-factory": "0.0.5",
     "jquery": "^3.2.1",
     "jsdom": "^11.1.0",
